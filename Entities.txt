@@ -1,0 +1,21 @@
+Entidades:
+
+	Usuario:
+	Login,
+	Nome COmpleto,
+	Status,
+	Gerência Atual,
+	Funcionalidades;
+	
+	Plugin:
+	Nome,
+	Descricao,
+	Data de criacao,
+	Funcionalidades;
+	
+	Funcionalidade:
+	Nome,
+	Descricao,
+	Data de criacao;
+	
+	
