@@ -1,4 +1,4 @@
-package br.com.stanley;
+package br.com.stanley.vgeplugins.rest.resource;
 
 import javax.annotation.security.RolesAllowed;
 import javax.ws.rs.GET;
